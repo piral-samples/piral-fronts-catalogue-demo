@@ -1,0 +1,34 @@
+{
+  "name": "app2",
+  "version": "0.0.0",
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-router-dom": "^5.1.7",
+    "shell": "0.0.1"
+  },
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "piral": {
+    "comment": "Keep this section to use the Piral CLI.",
+    "name": "shell"
+  },
+  "scripts": {},
+  "peerDependencies": {
+    "@chakra-ui/react": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.10",
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "framer-motion": "^4.1.17",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-icons": "^4.3.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "license": "MIT"
+}

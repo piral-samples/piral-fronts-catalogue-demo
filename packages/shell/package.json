@@ -1,0 +1,26 @@
+{
+  "name": "shell",
+  "version": "0.0.1",
+  "description": "A simple demo app shell.",
+  "scripts": {
+    "start": "piral debug",
+    "build": "piral build"
+  },
+  "app": "./src/index.html",
+  "pilets": {
+    "externals": ["@chakra-ui/react"]
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.6.10",
+    "piral-core": "0.14.27",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "@types/react-router-dom": "^5.1.7"
+  }
+}
