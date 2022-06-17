@@ -1,0 +1,1 @@
+[{"name":"app1","version":"0.0.0","link":"/app1/index.js","spec":"v2","requireRef":"esbuildpr_app1","dependencies":{}},{"name":"app2","version":"0.0.0","link":"/app2/index.js","spec":"v2","requireRef":"esbuildpr_app2","dependencies":{}}]
