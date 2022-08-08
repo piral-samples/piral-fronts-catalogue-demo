@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.10",
-    "piral-core": "0.14.27",
+    "piral-core": "0.14.29",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
     "react-router-dom": "^5.2.0"

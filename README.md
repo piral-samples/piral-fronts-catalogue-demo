@@ -6,6 +6,10 @@
 
 :zap: This sample uses the [simple example for Fronts](https://github.com/kokanek/fronts-example) to apply Piral. Compare for yourself.
 
+Feel free to play around with the code using StackBlitz.
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/piral-samples/piral-fronts-catalogue-demo)
+
 You can visit this demo at [fronts-catalogue.samples.piral.cloud/](https://fronts-catalogue.samples.piral.cloud/).
 
 ## Getting Started
